@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(203, 181, 153);
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    color: rgb(154, 34, 34);
+}
+
+p {
+    font-family: "Open Sans", "Helvetica Neue Light";
+    font-size: 20px;
+}
